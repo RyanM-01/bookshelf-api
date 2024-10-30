@@ -1,2 +1,5 @@
 # bookshelf-api
-bookshelf-api dicoding javascript beginner
+
+bookshelf-api build with JavaScirpt
+
+This Repository is made to complete Dicoding's Beginner JavaScirpt Course
